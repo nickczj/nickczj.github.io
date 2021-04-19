@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
-    "home_page_url": "/",
-    "feed_url": "/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
-    "icon": "/apple-touch-icon.png",
-    "favicon": "/favicon.ico",
+    "title": "nickczj.com",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Sidey is a simple and minimalistic jekyll blogging theme.",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "/2021/04/19/welp",
+            "id": "http://localhost:4000/2021/04/19/welp",
             "title": "Welp",
             "summary": null,
             "content_text": "So I finally decided to start my website again after a hiatus for the past few years. I originally started this website in 2017 with Python + Flask. It was my gateway to web development - writing code with a web framework I barely understood, following guides to host my app on a server with my own custom domain.Eventually it died after 2 years because I couldn’t fix an issue with my SSL certificate. I got busy and lazy, but gave up mostly because I had no clue how to fix it. Looking back, I’m actually astonished at how little I understood my own code back then. Using tools you don’t understand is dangerous, but nowadays there is a balance between understanding and getting things done.I originally wanted to develop my website with Vue + Go/Java but I’ve decided otherwise because I realised I was more interested in the tech than the product - I didn’t even have any design in mind. Eventually I decided, I mostly just wanted a personal online presence. Hence, this is just a static blog built with Jekyll, hosted on github pages.I still want to play around with Vue + Go/Java, but that’s for another day :)",
             "content_html": "<p>So I finally decided to start my website again after a hiatus for the past few years. I originally started this <a href=\"https://github.com/nickczj/nickczj-web1\">website</a> in 2017 with Python + <a href=\"https://flask.palletsprojects.com/en/1.1.x/\">Flask</a>. It was my gateway to web development - writing code with a web framework I barely understood, following guides to host my app on a server with my own custom domain.</p><p>Eventually it died after 2 years because I couldn’t fix an issue with my SSL certificate. I got busy and lazy, but gave up mostly because I had no clue how to fix it. Looking back, I’m actually astonished at how little I understood my own code back then. Using tools you don’t understand is dangerous, but nowadays there is a balance between understanding and getting things done.</p><p>I originally wanted to develop my website with Vue + Go/Java but I’ve decided otherwise because I realised I was more interested in the tech than the product - I didn’t even have any design in mind. Eventually I decided, I mostly just wanted a personal online presence. Hence, this is just a static blog built with Jekyll, hosted on github pages.</p><p>I still want to play around with Vue + Go/Java, but that’s for another day :)</p>",
-            "url": "/2021/04/19/welp",
+            "url": "http://localhost:4000/2021/04/19/welp",
             
             
             

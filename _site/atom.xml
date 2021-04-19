@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2021-04-19T22:49:31+08:00</updated>
- <id></id>
+ <title>nickczj.com</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-04-19T23:37:56+08:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Welp</title>
-   <link href="/2021/04/19/welp"/>
+   <link href="http://localhost:4000/2021/04/19/welp"/>
    <updated>2021-04-19T00:00:00+08:00</updated>
-   <id>/2021/04/19/welp</id>
+   <id>http://localhost:4000/2021/04/19/welp</id>
    <content type="html">&lt;p&gt;So I finally decided to start my website again after a hiatus for the past few years. I originally started this &lt;a href=&quot;https://github.com/nickczj/nickczj-web1&quot;&gt;website&lt;/a&gt; in 2017 with Python + &lt;a href=&quot;https://flask.palletsprojects.com/en/1.1.x/&quot;&gt;Flask&lt;/a&gt;. It was my gateway to web development - writing code with a web framework I barely understood, following guides to host my app on a server with my own custom domain.&lt;/p&gt;
 
 &lt;p&gt;Eventually it died after 2 years because I couldn’t fix an issue with my SSL certificate. I got busy and lazy, but gave up mostly because I had no clue how to fix it. Looking back, I’m actually astonished at how little I understood my own code back then. Using tools you don’t understand is dangerous, but nowadays there is a balance between understanding and getting things done.&lt;/p&gt;
