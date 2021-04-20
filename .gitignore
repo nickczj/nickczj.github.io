@@ -1,7 +1,9 @@
 tmp
 *.rdb
 .env
-.sass-cache
+.sass-cache/
 .DS_Store
-.jekyll-cache
+.jekyll-cache/
 .git
+_site/
+.jekyll-metadata

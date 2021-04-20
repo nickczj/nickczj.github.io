@@ -18,7 +18,9 @@
       {% endif %}
       {{ site.title | escape }}
       {% unless page.tag or page.title %}
+        {% if site.description %}
         - {{ site.description | escape }}
+        {% endif %}
       {% endunless %}
     </title>
   
